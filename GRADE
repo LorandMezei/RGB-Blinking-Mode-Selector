@@ -1,9 +1,0 @@
-GRADE: 15 / 20
-
-Solid, but all of the hardware configuration is being done in the main loop, whereas a better place for it would be the button ISR. Modes work pretty well, but sometimes the blue or green light will be stuck on when moving from one mode to the next.
-
---------------------
-GRADE: 0 / 20
-
-There's some code written here, but the program appears not to work properly. :(
-
